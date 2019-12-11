@@ -1,5 +1,5 @@
 /* jshint ignore:start */
-define(['jquery','core/log','block_shimshim/meaninglessfunctions'], function( $, log, shims) {
+define(['jquery','core/log','block_shimshim/meaninglessfunctions'], function( $, log) {
 
     "use strict";
     log.debug('Trigger shim alert button: initialising');
